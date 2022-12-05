@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NguyenTruongTho_DH51900920</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoiYW52aW5obHVvbmciLCJhIjoiY2w5bTcwcjJpMmM4djNwbW5waWZpYWRmdCJ9.9D7BI7KYGE9zqlxw8KcLUw</string>
+
+</resources>

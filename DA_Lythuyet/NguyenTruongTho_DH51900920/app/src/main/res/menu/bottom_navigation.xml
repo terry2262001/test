@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/nav_home"
+        android:enabled="true"
+        android:icon="@drawable/ic_home"
+        android:title="Trang Chủ"/>
+    <item android:title="Add"
+        android:icon="@drawable/ic_add"
+        android:id="@+id/nav_add"/>
+    <item android:id="@+id/nav_type"
+        android:enabled="true"
+        android:icon="@drawable/ic_filter"
+        android:title="Phân Loại "/>
+</menu>
